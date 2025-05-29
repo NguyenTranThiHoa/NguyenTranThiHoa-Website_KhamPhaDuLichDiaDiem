@@ -1,0 +1,6 @@
+@WebDoAn2_HostAddress = http://localhost:5195
+
+GET {{WebDoAn2_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

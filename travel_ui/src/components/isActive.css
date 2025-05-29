@@ -1,0 +1,15 @@
+.active-menu {
+  font-weight: bold;
+  text-decoration: underline;
+  color: #ffcc00;
+}
+
+.inactive-menu {
+  text-decoration: none;
+  color: #fff;
+}
+
+.active-menu:hover,
+.inactive-menu:hover {
+  color: #ffa500;
+}

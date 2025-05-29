@@ -1,0 +1,938 @@
+2024-12-14 00:00:58.134 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 11.9051 ms
+2024-12-14 00:00:58.146 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 6.7494 ms
+2024-12-14 00:05:22.969 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 27.8450 ms
+2024-12-14 00:26:47.937 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 51.7349 ms
+2024-12-14 00:26:47.950 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 9.2667 ms
+2024-12-14 00:27:05.607 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 7.3524 ms
+2024-12-14 00:27:05.618 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 7.6847 ms
+2024-12-14 00:27:34.924 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 26.1735 ms
+2024-12-14 00:27:38.858 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 6.1541 ms
+2024-12-14 00:27:55.937 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 9.8453 ms
+2024-12-14 00:27:57.969 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 97.1534 ms
+2024-12-14 00:28:11.878 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 18.2715 ms
+2024-12-14 00:28:27.846 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 12.3314 ms
+2024-12-14 00:28:42.852 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 4.7548 ms
+2024-12-14 00:29:00.550 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 5.0902 ms
+2024-12-14 00:29:21.854 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 4.0332 ms
+2024-12-14 00:29:36.893 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 21.2372 ms
+2024-12-14 00:29:54.856 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 6.9284 ms
+2024-12-14 00:30:00.877 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 11.1665 ms
+2024-12-14 00:30:09.877 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 6.9436 ms
+2024-12-14 00:30:13.839 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 4.5068 ms
+2024-12-14 00:30:22.909 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 4.6373 ms
+2024-12-14 00:30:49.877 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 20.9616 ms
+2024-12-14 00:30:51.864 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 13.5241 ms
+2024-12-14 00:30:56.451 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 5.0339 ms
+2024-12-14 00:31:02.430 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 6.3524 ms
+2024-12-14 00:32:08.864 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 11.0124 ms
+2024-12-14 00:32:13.852 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 4.6564 ms
+2024-12-14 00:32:27.093 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 44.2103 ms
+2024-12-14 00:33:01.220 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 24.0224 ms
+2024-12-14 00:33:09.080 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 14.9595 ms
+2024-12-14 00:33:32.300 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 6.2128 ms
+2024-12-14 00:33:32.317 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 7.8754 ms
+2024-12-14 00:33:35.843 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 4.4274 ms
+2024-12-14 00:33:46.966 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 3.8269 ms
+2024-12-14 00:33:55.905 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 21.4435 ms
+2024-12-14 00:34:02.295 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 27.2839 ms
+2024-12-14 00:34:18.373 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 24.3068 ms
+2024-12-14 00:34:24.857 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 4.1439 ms
+2024-12-14 00:34:31.982 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 6.2621 ms
+2024-12-14 00:34:40.669 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 4.6144 ms
+2024-12-14 00:34:50.748 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 5.9654 ms
+2024-12-14 00:36:37.796 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 18.6778 ms
+2024-12-14 00:37:08.855 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 12.0847 ms
+2024-12-14 00:39:14.465 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 27.0248 ms
+2024-12-14 00:39:14.482 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 13.4666 ms
+2024-12-14 00:39:23.049 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 10.9367 ms
+2024-12-14 00:39:23.059 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 6.7399 ms
+2024-12-14 00:40:00.936 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 24.4641 ms
+2024-12-14 00:40:08.375 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 5.9737 ms
+2024-12-14 00:42:18.177 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 18.2533 ms
+2024-12-14 00:43:50.926 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 26.8369 ms
+2024-12-14 00:44:05.897 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 20.3206 ms
+2024-12-14 00:44:24.889 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 6.5987 ms
+2024-12-14 00:45:00.900 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 32.7970 ms
+2024-12-14 00:45:06.075 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 7.7020 ms
+2024-12-14 00:49:45.991 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 51.8203 ms
+2024-12-14 00:49:54.779 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 4.1789 ms
+2024-12-14 00:49:54.795 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 11.8503 ms
+2024-12-14 00:50:03.562 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 4.9380 ms
+2024-12-14 00:50:41.093 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 17.6044 ms
+2024-12-14 00:51:28.575 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 9.7664 ms
+2024-12-14 00:51:44.869 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 15.6891 ms
+2024-12-14 00:51:47.419 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 5.6519 ms
+2024-12-14 00:51:57.845 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 4.4279 ms
+2024-12-14 00:51:59.843 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 4.5322 ms
+2024-12-14 00:54:42.715 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 29.3451 ms
+2024-12-14 00:55:08.882 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 26.2588 ms
+2024-12-14 00:55:10.559 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 3.7597 ms
+2024-12-14 00:55:20.847 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 8.4989 ms
+2024-12-14 00:55:23.420 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 5.3432 ms
+2024-12-14 00:55:36.595 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 9.4470 ms
+2024-12-14 00:56:47.366 +07:00 [INF] HTTP POST /api/Auth/Login responded 200 in 90.8315 ms
+2024-12-14 00:56:47.846 +07:00 [INF] HTTP GET /api/Statistics/GetStatistics responded 200 in 85.6905 ms
+2024-12-14 00:56:47.879 +07:00 [INF] HTTP GET /api/Reviews/GetReviewStatsByYear/2024 responded 200 in 118.2311 ms
+2024-12-14 00:56:47.902 +07:00 [INF] HTTP GET /api/Statistics/GetStatistics responded 200 in 50.2427 ms
+2024-12-14 00:56:47.942 +07:00 [INF] HTTP GET /api/Reviews/GetReviewStatsByYear/2024 responded 200 in 56.5661 ms
+2024-12-14 00:56:50.962 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 4.1948 ms
+2024-12-14 00:56:50.972 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 6.6309 ms
+2024-12-14 00:57:23.688 +07:00 [INF] HTTP PUT /api/Locations/UpdateLocations/3 responded 200 in 161.3148 ms
+2024-12-14 00:57:23.705 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 6.7472 ms
+2024-12-14 00:57:40.152 +07:00 [INF] HTTP PUT /api/Locations/UpdateLocations/3 responded 200 in 13.5010 ms
+2024-12-14 00:57:40.266 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 36.0862 ms
+2024-12-14 00:57:45.552 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 4.4199 ms
+2024-12-14 00:57:45.563 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 8.5580 ms
+2024-12-14 00:58:01.216 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 4.2266 ms
+2024-12-14 00:58:10.186 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 22.2327 ms
+2024-12-14 00:58:17.768 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 17.6796 ms
+2024-12-14 01:00:01.893 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 16.0406 ms
+2024-12-14 01:00:04.188 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 3.4984 ms
+2024-12-14 01:00:58.850 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 12.2346 ms
+2024-12-14 01:01:08.850 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 3.9676 ms
+2024-12-14 01:01:20.867 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 12.6594 ms
+2024-12-14 01:01:24.850 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 5.9661 ms
+2024-12-14 01:01:31.838 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 4.1597 ms
+2024-12-14 01:01:34.844 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 3.9783 ms
+2024-12-14 01:02:08.981 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 4.7896 ms
+2024-12-14 01:02:47.880 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 25.4094 ms
+2024-12-14 01:02:48.855 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 4.6270 ms
+2024-12-14 01:02:52.871 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 6.0715 ms
+2024-12-14 01:02:54.409 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 5.6334 ms
+2024-12-14 01:03:23.078 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 4.6970 ms
+2024-12-14 01:03:23.095 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 10.6920 ms
+2024-12-14 01:05:01.844 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 19.2484 ms
+2024-12-14 01:05:35.870 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 13.7392 ms
+2024-12-14 01:05:51.284 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 44.3711 ms
+2024-12-14 01:06:04.511 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 18.1915 ms
+2024-12-14 01:06:17.841 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 4.6390 ms
+2024-12-14 01:06:19.880 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 11.8714 ms
+2024-12-14 01:06:20.743 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 4.5124 ms
+2024-12-14 01:06:34.866 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 4.2674 ms
+2024-12-14 01:06:35.852 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 5.1881 ms
+2024-12-14 01:06:38.864 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 5.5875 ms
+2024-12-14 01:06:42.149 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 8.8946 ms
+2024-12-14 01:07:01.697 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 17.0230 ms
+2024-12-14 01:07:17.843 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 5.0153 ms
+2024-12-14 01:07:22.850 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 5.1573 ms
+2024-12-14 01:07:40.794 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 4.7294 ms
+2024-12-14 01:07:40.809 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 12.5473 ms
+2024-12-14 01:07:58.247 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 6.0781 ms
+2024-12-14 01:08:12.861 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 15.7834 ms
+2024-12-14 01:08:13.839 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 3.7659 ms
+2024-12-14 01:08:17.528 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 3.9462 ms
+2024-12-14 01:08:28.792 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 5.7686 ms
+2024-12-14 01:08:39.850 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 4.4658 ms
+2024-12-14 01:08:42.464 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 4.6031 ms
+2024-12-14 01:08:55.098 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 4.7331 ms
+2024-12-14 01:09:05.055 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 20.7542 ms
+2024-12-14 01:09:15.766 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 19.1950 ms
+2024-12-14 01:09:55.704 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 4.7727 ms
+2024-12-14 01:09:55.721 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 14.4266 ms
+2024-12-14 13:28:54.961 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 6561.5573 ms
+2024-12-14 13:28:55.213 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 196.7873 ms
+2024-12-14 13:37:12.199 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 281.4413 ms
+2024-12-14 13:37:12.248 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 45.3366 ms
+2024-12-14 13:37:14.375 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 10.8689 ms
+2024-12-14 13:37:14.415 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 35.6724 ms
+2024-12-14 13:37:17.271 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 7.9225 ms
+2024-12-14 13:37:17.287 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 11.2424 ms
+2024-12-14 13:37:35.939 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 12.1075 ms
+2024-12-14 13:37:35.959 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 15.1232 ms
+2024-12-14 13:38:40.882 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 90.2294 ms
+2024-12-14 13:38:40.919 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 24.8022 ms
+2024-12-14 13:38:51.016 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 10.1414 ms
+2024-12-14 13:38:51.196 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 174.0885 ms
+2024-12-14 13:39:06.539 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 98.6934 ms
+2024-12-14 13:39:52.888 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 37.6641 ms
+2024-12-14 13:40:16.417 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 44.6090 ms
+2024-12-14 13:41:06.479 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 44.5271 ms
+2024-12-14 13:45:20.274 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 31.5154 ms
+2024-12-14 13:47:43.523 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 34.8967 ms
+2024-12-14 13:47:43.538 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 10.7838 ms
+2024-12-14 13:48:16.556 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 85.5410 ms
+2024-12-14 13:48:22.641 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 7.1773 ms
+2024-12-14 13:48:22.667 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 19.9223 ms
+2024-12-14 13:53:18.262 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 82.8476 ms
+2024-12-14 13:53:18.344 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 38.0473 ms
+2024-12-14 13:53:46.549 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 48.6119 ms
+2024-12-14 13:54:38.676 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 92.0093 ms
+2024-12-14 13:54:38.713 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 29.0025 ms
+2024-12-14 13:55:16.469 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 8.6191 ms
+2024-12-14 13:59:53.513 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 57.0419 ms
+2024-12-14 13:59:53.534 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 15.6626 ms
+2024-12-14 14:00:33.464 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 57.8786 ms
+2024-12-14 14:00:33.484 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 16.7178 ms
+2024-12-14 14:06:58.462 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 54.1188 ms
+2024-12-14 14:13:28.595 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 74.9288 ms
+2024-12-14 14:14:02.386 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 27.2570 ms
+2024-12-14 14:14:28.541 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 91.5077 ms
+2024-12-14 14:14:56.500 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 21.3602 ms
+2024-12-14 14:26:07.087 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 115.8270 ms
+2024-12-14 14:26:07.110 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 19.0483 ms
+2024-12-14 14:27:02.213 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 46.6050 ms
+2024-12-14 14:27:51.003 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 188.3012 ms
+2024-12-14 14:30:06.937 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 37.9861 ms
+2024-12-14 14:30:06.959 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 15.2486 ms
+2024-12-14 14:30:26.342 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 7.1475 ms
+2024-12-14 14:30:26.369 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 13.7988 ms
+2024-12-14 14:31:38.164 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 82.5787 ms
+2024-12-14 14:31:38.186 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 19.3795 ms
+2024-12-14 14:32:02.834 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 133.5194 ms
+2024-12-14 14:32:02.863 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 15.3826 ms
+2024-12-14 14:37:55.941 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 107.6275 ms
+2024-12-14 14:37:55.992 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 29.1737 ms
+2024-12-14 14:37:56.032 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 18.1720 ms
+2024-12-14 14:37:56.107 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 15.0497 ms
+2024-12-14 14:39:05.480 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 29.6826 ms
+2024-12-14 14:39:05.497 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 13.9049 ms
+2024-12-14 14:39:30.482 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 8.3864 ms
+2024-12-14 14:39:30.498 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 12.2878 ms
+2024-12-14 14:52:20.839 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 298.1257 ms
+2024-12-14 14:52:20.864 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 17.6069 ms
+2024-12-14 14:52:20.880 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 10.2139 ms
+2024-12-14 14:52:20.898 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 8.1260 ms
+2024-12-14 14:52:20.924 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 10.7707 ms
+2024-12-14 14:52:20.946 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 23.9832 ms
+2024-12-14 14:52:29.563 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 6.4545 ms
+2024-12-14 14:52:29.582 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 15.9907 ms
+2024-12-14 14:52:29.605 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 16.5060 ms
+2024-12-14 14:52:29.622 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 10.7736 ms
+2024-12-14 14:52:29.642 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 13.4199 ms
+2024-12-14 14:52:29.668 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 18.8027 ms
+2024-12-14 14:52:54.905 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 35.4865 ms
+2024-12-14 14:52:54.923 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 14.3666 ms
+2024-12-14 14:52:54.987 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 38.1233 ms
+2024-12-14 14:56:50.252 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 34.2826 ms
+2024-12-14 14:56:50.280 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 23.9221 ms
+2024-12-14 14:56:50.321 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 25.5219 ms
+2024-12-14 14:56:50.346 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 6.7236 ms
+2024-12-14 14:56:50.363 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 8.0316 ms
+2024-12-14 14:56:50.392 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 28.7738 ms
+2024-12-14 15:01:03.533 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 31.4743 ms
+2024-12-14 15:01:03.556 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 18.5054 ms
+2024-12-14 15:01:03.584 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 20.4964 ms
+2024-12-14 15:10:47.432 +07:00 [INF] HTTP POST /api/Auth/Login responded 200 in 1258.0272 ms
+2024-12-14 15:10:48.630 +07:00 [INF] HTTP GET /api/Statistics/GetStatistics responded 200 in 350.3144 ms
+2024-12-14 15:10:48.667 +07:00 [INF] HTTP GET /api/Statistics/GetStatistics responded 200 in 32.5118 ms
+2024-12-14 15:10:48.679 +07:00 [INF] HTTP GET /api/Reviews/GetReviewStatsByYear/2024 responded 200 in 399.8974 ms
+2024-12-14 15:10:48.712 +07:00 [INF] HTTP GET /api/Reviews/GetReviewStatsByYear/2024 responded 200 in 28.5657 ms
+2024-12-14 15:10:52.720 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 6.9214 ms
+2024-12-14 15:10:52.757 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 29.5388 ms
+2024-12-14 15:10:52.839 +07:00 [INF] HTTP GET /api/TransportType/GetTransportType responded 200 in 69.2802 ms
+2024-12-14 15:10:52.855 +07:00 [INF] HTTP GET /api/TransportType/GetTransportType responded 200 in 6.8213 ms
+2024-12-14 15:10:53.016 +07:00 [INF] HTTP GET /api/Transports/GetTransports responded 200 in 301.8699 ms
+2024-12-14 15:10:53.036 +07:00 [INF] HTTP GET /api/Transports/GetTransports responded 200 in 10.1274 ms
+2024-12-14 15:10:56.312 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 6.8820 ms
+2024-12-14 15:10:56.326 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 10.5007 ms
+2024-12-14 15:10:56.428 +07:00 [INF] HTTP GET /api/Hotels/GetHotels responded 200 in 121.6424 ms
+2024-12-14 15:10:56.448 +07:00 [INF] HTTP GET /api/Hotels/GetHotels responded 200 in 9.1158 ms
+2024-12-14 15:14:41.592 +07:00 [INF] HTTP POST /api/Hotels/UploadImage responded 200 in 82.9221 ms
+2024-12-14 15:14:41.687 +07:00 [INF] HTTP PUT /api/Hotels/UpdateHotels/4 responded 200 in 81.5127 ms
+2024-12-14 15:14:41.705 +07:00 [INF] HTTP GET /api/Hotels/GetHotels responded 200 in 7.2277 ms
+2024-12-14 15:16:18.478 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 14.9811 ms
+2024-12-14 15:16:18.499 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 13.9985 ms
+2024-12-14 15:16:29.090 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 6.2496 ms
+2024-12-14 15:16:29.114 +07:00 [INF] HTTP GET /api/Hotels/GetHotels responded 200 in 30.8299 ms
+2024-12-14 15:16:29.139 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 35.9707 ms
+2024-12-14 15:16:29.157 +07:00 [INF] HTTP GET /api/Hotels/GetHotels responded 200 in 37.1801 ms
+2024-12-14 15:16:30.721 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 4.4102 ms
+2024-12-14 15:16:30.729 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 6.4463 ms
+2024-12-14 15:16:32.763 +07:00 [INF] HTTP GET /api/Hotels/GetHotels responded 200 in 9.1307 ms
+2024-12-14 15:16:32.763 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 9.1398 ms
+2024-12-14 15:16:32.779 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 10.8398 ms
+2024-12-14 15:16:32.788 +07:00 [INF] HTTP GET /api/Hotels/GetHotels responded 200 in 20.0742 ms
+2024-12-14 15:16:33.846 +07:00 [INF] HTTP GET /api/TransportType/GetTransportType responded 200 in 7.0921 ms
+2024-12-14 15:16:33.857 +07:00 [INF] HTTP GET /api/TransportType/GetTransportType responded 200 in 8.3862 ms
+2024-12-14 15:16:34.814 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 7.9919 ms
+2024-12-14 15:16:34.816 +07:00 [INF] HTTP GET /api/Hotels/GetHotels responded 200 in 9.5074 ms
+2024-12-14 15:16:34.824 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 8.2088 ms
+2024-12-14 15:16:34.831 +07:00 [INF] HTTP GET /api/Hotels/GetHotels responded 200 in 12.7346 ms
+2024-12-14 15:16:36.084 +07:00 [INF] HTTP GET /api/TransportType/GetTransportType responded 200 in 6.7462 ms
+2024-12-14 15:16:36.085 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 7.4982 ms
+2024-12-14 15:16:36.105 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 12.0832 ms
+2024-12-14 15:16:36.114 +07:00 [INF] HTTP GET /api/Transports/GetTransports responded 200 in 36.6583 ms
+2024-12-14 15:16:36.126 +07:00 [INF] HTTP GET /api/TransportType/GetTransportType responded 200 in 32.4230 ms
+2024-12-14 15:16:36.133 +07:00 [INF] HTTP GET /api/Transports/GetTransports responded 200 in 10.3675 ms
+2024-12-14 15:16:38.599 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 7.2803 ms
+2024-12-14 15:16:38.599 +07:00 [INF] HTTP GET /api/Hotels/GetHotels responded 200 in 8.3250 ms
+2024-12-14 15:16:38.612 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 10.4055 ms
+2024-12-14 15:16:38.614 +07:00 [INF] HTTP GET /api/Hotels/GetHotels responded 200 in 10.2849 ms
+2024-12-14 15:16:40.815 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 4.7053 ms
+2024-12-14 15:16:40.824 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 7.5406 ms
+2024-12-14 15:16:42.473 +07:00 [INF] HTTP GET /api/Hotels/GetHotels responded 200 in 5.8350 ms
+2024-12-14 15:16:42.473 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 5.8093 ms
+2024-12-14 15:16:42.486 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 9.5187 ms
+2024-12-14 15:16:42.486 +07:00 [INF] HTTP GET /api/Hotels/GetHotels responded 200 in 9.6096 ms
+2024-12-14 15:16:44.986 +07:00 [INF] HTTP GET /api/TransportType/GetTransportType responded 200 in 4.0185 ms
+2024-12-14 15:16:44.995 +07:00 [INF] HTTP GET /api/TransportType/GetTransportType responded 200 in 6.4185 ms
+2024-12-14 15:16:46.362 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 5.3290 ms
+2024-12-14 15:16:46.364 +07:00 [INF] HTTP GET /api/Hotels/GetHotels responded 200 in 8.9057 ms
+2024-12-14 15:16:46.369 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 5.5528 ms
+2024-12-14 15:16:46.376 +07:00 [INF] HTTP GET /api/Hotels/GetHotels responded 200 in 7.3945 ms
+2024-12-14 15:18:25.430 +07:00 [INF] HTTP POST /api/Hotels/UploadImage responded 200 in 14.5974 ms
+2024-12-14 15:18:25.469 +07:00 [INF] HTTP PUT /api/Hotels/UpdateHotels/4 responded 200 in 23.4514 ms
+2024-12-14 15:18:25.488 +07:00 [INF] HTTP GET /api/Hotels/GetHotels responded 200 in 7.0852 ms
+2024-12-14 15:20:34.057 +07:00 [INF] HTTP POST /api/Hotels/UploadImage responded 200 in 5.0260 ms
+2024-12-14 15:20:34.091 +07:00 [INF] HTTP PUT /api/Hotels/UpdateHotels/5 responded 200 in 19.1972 ms
+2024-12-14 15:20:34.110 +07:00 [INF] HTTP GET /api/Hotels/GetHotels responded 200 in 8.3411 ms
+2024-12-14 15:23:07.393 +07:00 [INF] HTTP POST /api/Hotels/UploadImage responded 200 in 9.0540 ms
+2024-12-14 15:23:07.428 +07:00 [INF] HTTP PUT /api/Hotels/UpdateHotels/3 responded 200 in 18.8334 ms
+2024-12-14 15:23:07.449 +07:00 [INF] HTTP GET /api/Hotels/GetHotels responded 200 in 7.4703 ms
+2024-12-14 15:25:29.486 +07:00 [INF] HTTP POST /api/Hotels/UploadImage responded 200 in 7.7785 ms
+2024-12-14 15:25:29.522 +07:00 [INF] HTTP PUT /api/Hotels/UpdateHotels/2 responded 200 in 12.0671 ms
+2024-12-14 15:25:29.542 +07:00 [INF] HTTP GET /api/Hotels/GetHotels responded 200 in 9.2591 ms
+2024-12-14 15:28:19.604 +07:00 [INF] HTTP POST /api/Hotels/UploadImage responded 200 in 5.2776 ms
+2024-12-14 15:28:19.651 +07:00 [INF] HTTP PUT /api/Hotels/UpdateHotels/1 responded 200 in 22.6762 ms
+2024-12-14 15:28:19.671 +07:00 [INF] HTTP GET /api/Hotels/GetHotels responded 200 in 7.8852 ms
+2024-12-14 15:40:07.257 +07:00 [INF] HTTP GET /api/Hotels/GetHotels responded 200 in 73.2708 ms
+2024-12-14 15:43:17.662 +07:00 [INF] HTTP GET /api/Hotels/GetHotels responded 200 in 56.4088 ms
+2024-12-14 15:43:17.691 +07:00 [INF] HTTP GET /api/Hotels/GetHotels responded 200 in 20.3952 ms
+2024-12-14 15:44:07.795 +07:00 [INF] HTTP GET /api/Hotels/GetHotels responded 200 in 31.8162 ms
+2024-12-14 15:44:47.969 +07:00 [INF] HTTP GET /api/Hotels/GetHotels responded 200 in 27.5473 ms
+2024-12-14 15:45:28.464 +07:00 [INF] HTTP GET /api/Hotels/GetHotels responded 200 in 18.4588 ms
+2024-12-14 15:45:35.493 +07:00 [INF] HTTP GET /api/Hotels/GetHotels responded 200 in 30.7171 ms
+2024-12-14 15:45:49.084 +07:00 [INF] HTTP GET /api/Hotels/GetHotels responded 200 in 32.6498 ms
+2024-12-14 15:47:11.462 +07:00 [INF] HTTP GET /api/Hotels/GetHotels responded 200 in 47.6076 ms
+2024-12-14 15:47:11.480 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 64.9891 ms
+2024-12-14 15:47:11.498 +07:00 [INF] HTTP GET /api/Hotels/GetHotels responded 200 in 33.1199 ms
+2024-12-14 15:47:11.520 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 32.9890 ms
+2024-12-14 15:48:15.433 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 18.9897 ms
+2024-12-14 15:48:15.439 +07:00 [INF] HTTP GET /api/Hotels/GetHotels responded 200 in 25.0597 ms
+2024-12-14 15:48:46.828 +07:00 [INF] HTTP GET /api/Hotels/GetHotels responded 200 in 28.6373 ms
+2024-12-14 15:48:46.848 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 22.3629 ms
+2024-12-14 15:52:20.211 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 50.8781 ms
+2024-12-14 15:52:20.213 +07:00 [INF] HTTP GET /api/Hotels/GetHotels responded 200 in 63.1016 ms
+2024-12-14 15:52:20.262 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 18.1848 ms
+2024-12-14 15:52:20.290 +07:00 [INF] HTTP GET /api/Hotels/GetHotels responded 200 in 29.7089 ms
+2024-12-14 15:52:20.290 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 18.0668 ms
+2024-12-14 15:52:20.322 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 28.3342 ms
+2024-12-14 15:52:20.341 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 14.1237 ms
+2024-12-14 15:52:20.353 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 25.6754 ms
+2024-12-14 15:52:29.807 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 5.8792 ms
+2024-12-14 15:52:29.821 +07:00 [INF] HTTP GET /api/Hotels/GetHotels responded 200 in 14.4230 ms
+2024-12-14 15:52:29.822 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 10.5933 ms
+2024-12-14 15:52:29.835 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 11.3648 ms
+2024-12-14 15:52:29.835 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 11.1361 ms
+2024-12-14 15:52:29.895 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 66.7681 ms
+2024-12-14 15:52:29.896 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 72.3696 ms
+2024-12-14 15:52:29.917 +07:00 [INF] HTTP GET /api/Hotels/GetHotels responded 200 in 93.3433 ms
+2024-12-14 15:54:09.063 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 31.0760 ms
+2024-12-14 15:54:09.069 +07:00 [INF] HTTP GET /api/Hotels/GetHotels responded 200 in 37.0201 ms
+2024-12-14 15:54:35.496 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 35.9544 ms
+2024-12-14 15:54:35.505 +07:00 [INF] HTTP GET /api/Hotels/GetHotels responded 200 in 45.0876 ms
+2024-12-14 15:54:36.887 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 17.3629 ms
+2024-12-14 15:54:36.887 +07:00 [INF] HTTP GET /api/Hotels/GetHotels responded 200 in 18.3385 ms
+2024-12-14 15:55:08.410 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 10.4742 ms
+2024-12-14 15:55:08.412 +07:00 [INF] HTTP GET /api/Hotels/GetHotels responded 200 in 13.3958 ms
+2024-12-14 15:55:19.608 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 5.0583 ms
+2024-12-14 15:55:19.614 +07:00 [INF] HTTP GET /api/Hotels/GetHotels responded 200 in 10.3561 ms
+2024-12-14 15:55:19.636 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 21.8730 ms
+2024-12-14 15:55:19.641 +07:00 [INF] HTTP GET /api/Hotels/GetHotels responded 200 in 7.2851 ms
+2024-12-14 15:55:19.647 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 8.5794 ms
+2024-12-14 15:55:19.660 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 12.2386 ms
+2024-12-14 15:55:19.671 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 22.4634 ms
+2024-12-14 15:55:19.661 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 12.7895 ms
+2024-12-14 15:55:33.430 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 7.0966 ms
+2024-12-14 15:55:33.431 +07:00 [INF] HTTP GET /api/Hotels/GetHotels responded 200 in 9.1441 ms
+2024-12-14 15:55:37.435 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 7.8799 ms
+2024-12-14 15:55:37.435 +07:00 [INF] HTTP GET /api/Hotels/GetHotels responded 200 in 7.8799 ms
+2024-12-14 15:55:39.931 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 21.5300 ms
+2024-12-14 15:55:39.936 +07:00 [INF] HTTP GET /api/Hotels/GetHotels responded 200 in 26.1447 ms
+2024-12-14 15:55:50.711 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 18.8770 ms
+2024-12-14 15:55:50.714 +07:00 [INF] HTTP GET /api/Hotels/GetHotels responded 200 in 21.9419 ms
+2024-12-14 15:56:21.427 +07:00 [INF] HTTP GET /api/Hotels/GetHotels responded 200 in 20.5541 ms
+2024-12-14 15:56:21.432 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 24.5961 ms
+2024-12-14 15:56:22.415 +07:00 [INF] HTTP GET /api/Hotels/GetHotels responded 200 in 7.2884 ms
+2024-12-14 15:56:22.415 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 6.6937 ms
+2024-12-14 15:56:24.414 +07:00 [INF] HTTP GET /api/Hotels/GetHotels responded 200 in 4.9982 ms
+2024-12-14 15:56:24.414 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 5.3511 ms
+2024-12-14 15:56:26.421 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 5.0587 ms
+2024-12-14 15:56:26.424 +07:00 [INF] HTTP GET /api/Hotels/GetHotels responded 200 in 8.7535 ms
+2024-12-14 15:56:39.166 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 11.7709 ms
+2024-12-14 15:56:39.166 +07:00 [INF] HTTP GET /api/Hotels/GetHotels responded 200 in 13.6857 ms
+2024-12-14 15:56:53.573 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 17.8757 ms
+2024-12-14 15:56:53.576 +07:00 [INF] HTTP GET /api/Hotels/GetHotels responded 200 in 27.8367 ms
+2024-12-14 15:57:09.430 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 8.2711 ms
+2024-12-14 15:57:09.430 +07:00 [INF] HTTP GET /api/Hotels/GetHotels responded 200 in 9.0655 ms
+2024-12-14 15:57:11.437 +07:00 [INF] HTTP GET /api/Hotels/GetHotels responded 200 in 6.9670 ms
+2024-12-14 15:57:11.441 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 9.3729 ms
+2024-12-14 15:57:15.437 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 6.1716 ms
+2024-12-14 15:57:15.439 +07:00 [INF] HTTP GET /api/Hotels/GetHotels responded 200 in 8.5524 ms
+2024-12-14 15:58:18.019 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 19.6784 ms
+2024-12-14 15:58:18.024 +07:00 [INF] HTTP GET /api/Hotels/GetHotels responded 200 in 17.7648 ms
+2024-12-14 15:58:18.036 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 14.1424 ms
+2024-12-14 15:58:18.059 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 16.5783 ms
+2024-12-14 15:58:18.062 +07:00 [INF] HTTP GET /api/Hotels/GetHotels responded 200 in 31.5462 ms
+2024-12-14 15:58:18.104 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 43.1473 ms
+2024-12-14 15:58:18.134 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 27.8297 ms
+2024-12-14 15:58:18.126 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 14.5289 ms
+2024-12-14 15:58:20.784 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 5.7201 ms
+2024-12-14 15:58:20.791 +07:00 [INF] HTTP GET /api/Hotels/GetHotels responded 200 in 9.4101 ms
+2024-12-14 15:58:20.799 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 9.6903 ms
+2024-12-14 15:58:20.810 +07:00 [INF] HTTP GET /api/Hotels/GetHotels responded 200 in 13.8860 ms
+2024-12-14 15:58:20.814 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 12.8498 ms
+2024-12-14 15:58:20.826 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 8.9507 ms
+2024-12-14 15:58:20.840 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 12.4327 ms
+2024-12-14 15:58:20.849 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 21.1398 ms
+2024-12-14 15:59:01.479 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 30.6758 ms
+2024-12-14 15:59:01.484 +07:00 [INF] HTTP GET /api/Hotels/GetHotels responded 200 in 37.1702 ms
+2024-12-14 15:59:03.731 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 9.0401 ms
+2024-12-14 15:59:03.737 +07:00 [INF] HTTP GET /api/Hotels/GetHotels responded 200 in 14.3712 ms
+2024-12-14 16:02:56.379 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 110.1624 ms
+2024-12-14 16:02:56.388 +07:00 [INF] HTTP GET /api/Hotels/GetHotels responded 200 in 119.0799 ms
+2024-12-14 16:03:08.437 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 7.8914 ms
+2024-12-14 16:03:08.437 +07:00 [INF] HTTP GET /api/Hotels/GetHotels responded 200 in 8.2224 ms
+2024-12-14 16:03:11.060 +07:00 [INF] HTTP GET /api/Hotels/GetHotels responded 200 in 11.2481 ms
+2024-12-14 16:03:11.060 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 11.0831 ms
+2024-12-14 16:05:17.550 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 18.2718 ms
+2024-12-14 16:05:17.552 +07:00 [INF] HTTP GET /api/Hotels/GetHotels responded 200 in 21.0362 ms
+2024-12-14 16:06:27.452 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 12.5857 ms
+2024-12-14 16:06:27.462 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 7.4522 ms
+2024-12-14 16:06:30.412 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 3.6455 ms
+2024-12-14 16:06:30.420 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 6.4588 ms
+2024-12-14 16:06:33.534 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 5.4220 ms
+2024-12-14 16:06:33.544 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 7.7077 ms
+2024-12-14 16:06:38.158 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 6.8154 ms
+2024-12-14 16:06:38.167 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 6.2011 ms
+2024-12-14 16:09:07.581 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 40.2514 ms
+2024-12-14 16:09:07.629 +07:00 [INF] HTTP GET /api/Hotels/GetHotels responded 200 in 73.7949 ms
+2024-12-14 16:09:07.632 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 47.3539 ms
+2024-12-14 16:09:07.652 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 8.6375 ms
+2024-12-14 16:09:07.652 +07:00 [INF] HTTP GET /api/Hotels/GetHotels responded 200 in 8.7608 ms
+2024-12-14 16:09:07.676 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 19.0004 ms
+2024-12-14 16:09:07.704 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 31.9963 ms
+2024-12-14 16:09:07.706 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 30.2115 ms
+2024-12-14 16:09:10.469 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 4.8034 ms
+2024-12-14 16:09:10.474 +07:00 [INF] HTTP GET /api/Hotels/GetHotels responded 200 in 8.5769 ms
+2024-12-14 16:09:10.483 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 11.4825 ms
+2024-12-14 16:09:10.498 +07:00 [INF] HTTP GET /api/Hotels/GetHotels responded 200 in 15.1442 ms
+2024-12-14 16:09:10.499 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 12.8317 ms
+2024-12-14 16:09:10.518 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 15.6612 ms
+2024-12-14 16:09:10.517 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 15.1981 ms
+2024-12-14 16:09:10.565 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 63.4388 ms
+2024-12-14 16:10:05.458 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 16.2840 ms
+2024-12-14 16:10:05.468 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 7.7425 ms
+2024-12-14 16:10:06.453 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 4.2953 ms
+2024-12-14 16:10:06.462 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 7.0535 ms
+2024-12-14 16:10:11.660 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 6.4441 ms
+2024-12-14 16:10:11.669 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 4.9555 ms
+2024-12-14 16:10:12.437 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 4.2124 ms
+2024-12-14 16:10:12.447 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 7.7863 ms
+2024-12-14 16:10:17.445 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 4.1910 ms
+2024-12-14 16:10:17.455 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 7.9453 ms
+2024-12-14 16:10:21.285 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 3.6630 ms
+2024-12-14 16:10:21.294 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 6.1393 ms
+2024-12-14 16:10:31.441 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 6.0219 ms
+2024-12-14 16:10:31.451 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 6.6362 ms
+2024-12-14 16:10:34.439 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 4.3343 ms
+2024-12-14 16:10:34.448 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 7.5518 ms
+2024-12-14 16:10:40.443 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 4.6388 ms
+2024-12-14 16:10:40.453 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 7.7229 ms
+2024-12-14 16:10:48.143 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 6.1250 ms
+2024-12-14 16:10:48.155 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 8.4201 ms
+2024-12-14 16:11:06.458 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 16.2160 ms
+2024-12-14 16:11:06.468 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 6.3389 ms
+2024-12-14 16:11:08.472 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 23.1996 ms
+2024-12-14 16:11:08.482 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 7.5507 ms
+2024-12-14 16:11:12.312 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 30.2320 ms
+2024-12-14 16:11:12.320 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 4.6603 ms
+2024-12-14 16:11:23.400 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 4.0145 ms
+2024-12-14 16:11:23.410 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 7.8938 ms
+2024-12-14 16:12:24.464 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 21.3225 ms
+2024-12-14 16:12:24.482 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 15.0736 ms
+2024-12-14 16:12:34.476 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 11.7927 ms
+2024-12-14 16:12:34.490 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 11.2586 ms
+2024-12-14 16:12:55.448 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 5.1145 ms
+2024-12-14 16:12:55.460 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 9.9158 ms
+2024-12-14 16:13:06.816 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 23.8752 ms
+2024-12-14 16:13:06.835 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 10.2857 ms
+2024-12-14 16:13:08.141 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 4.8527 ms
+2024-12-14 16:13:08.153 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 8.4346 ms
+2024-12-14 16:13:15.477 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 4.9804 ms
+2024-12-14 16:13:15.491 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 11.2545 ms
+2024-12-14 16:13:41.439 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 16.3139 ms
+2024-12-14 16:13:41.447 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 5.9359 ms
+2024-12-14 16:14:51.447 +07:00 [INF] HTTP GET /api/Hotels/GetHotels responded 200 in 25.7968 ms
+2024-12-14 16:14:51.462 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 37.6836 ms
+2024-12-14 16:14:51.467 +07:00 [INF] HTTP GET /api/Hotels/GetHotels responded 200 in 18.0303 ms
+2024-12-14 16:14:51.481 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 14.6487 ms
+2024-12-14 16:14:51.491 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 6.6793 ms
+2024-12-14 16:14:51.499 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 5.3889 ms
+2024-12-14 16:14:58.968 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 5.8496 ms
+2024-12-14 16:14:58.976 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 5.5849 ms
+2024-12-14 16:26:29.786 +07:00 [ERR] HTTP POST /api/Auth/Register responded 500 in 398.9188 ms
+WebDoAn2.Exceptions.BadRequestException: Email đã được sử dụng.
+   at WebDoAn2.Services.AuthService.RegisterAsync(RegisterModel registerModel) in D:\WebDoAn2\Services\AuthService.cs:line 86
+   at WebDoAn2.Controllers.AuthController.Register(RegisterModel registerModel) in D:\WebDoAn2\Controllers\AuthController.cs:line 43
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2024-12-14 16:26:29.921 +07:00 [ERR] An unhandled exception has occurred while executing the request.
+WebDoAn2.Exceptions.BadRequestException: Email đã được sử dụng.
+   at WebDoAn2.Services.AuthService.RegisterAsync(RegisterModel registerModel) in D:\WebDoAn2\Services\AuthService.cs:line 86
+   at WebDoAn2.Controllers.AuthController.Register(RegisterModel registerModel) in D:\WebDoAn2\Controllers\AuthController.cs:line 43
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-12-14 16:26:38.249 +07:00 [INF] HTTP POST /api/Auth/SendVerificationCode responded 200 in 4416.9548 ms
+2024-12-14 16:26:55.846 +07:00 [ERR] HTTP POST /api/Auth/Register responded 500 in 96.2101 ms
+WebDoAn2.Exceptions.BadRequestException: Email đã được sử dụng.
+   at WebDoAn2.Services.AuthService.RegisterAsync(RegisterModel registerModel) in D:\WebDoAn2\Services\AuthService.cs:line 86
+   at WebDoAn2.Controllers.AuthController.Register(RegisterModel registerModel) in D:\WebDoAn2\Controllers\AuthController.cs:line 43
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2024-12-14 16:26:55.864 +07:00 [ERR] An unhandled exception has occurred while executing the request.
+WebDoAn2.Exceptions.BadRequestException: Email đã được sử dụng.
+   at WebDoAn2.Services.AuthService.RegisterAsync(RegisterModel registerModel) in D:\WebDoAn2\Services\AuthService.cs:line 86
+   at WebDoAn2.Controllers.AuthController.Register(RegisterModel registerModel) in D:\WebDoAn2\Controllers\AuthController.cs:line 43
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-12-14 16:27:13.123 +07:00 [ERR] HTTP POST /api/Auth/Register responded 500 in 80.9104 ms
+WebDoAn2.Exceptions.BadRequestException: Email đã được sử dụng.
+   at WebDoAn2.Services.AuthService.RegisterAsync(RegisterModel registerModel) in D:\WebDoAn2\Services\AuthService.cs:line 86
+   at WebDoAn2.Controllers.AuthController.Register(RegisterModel registerModel) in D:\WebDoAn2\Controllers\AuthController.cs:line 43
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2024-12-14 16:27:13.137 +07:00 [ERR] An unhandled exception has occurred while executing the request.
+WebDoAn2.Exceptions.BadRequestException: Email đã được sử dụng.
+   at WebDoAn2.Services.AuthService.RegisterAsync(RegisterModel registerModel) in D:\WebDoAn2\Services\AuthService.cs:line 86
+   at WebDoAn2.Controllers.AuthController.Register(RegisterModel registerModel) in D:\WebDoAn2\Controllers\AuthController.cs:line 43
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-12-14 16:27:23.215 +07:00 [ERR] HTTP POST /api/Auth/Register responded 500 in 77.0592 ms
+WebDoAn2.Exceptions.BadRequestException: Email đã được sử dụng.
+   at WebDoAn2.Services.AuthService.RegisterAsync(RegisterModel registerModel) in D:\WebDoAn2\Services\AuthService.cs:line 86
+   at WebDoAn2.Controllers.AuthController.Register(RegisterModel registerModel) in D:\WebDoAn2\Controllers\AuthController.cs:line 43
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2024-12-14 16:27:23.227 +07:00 [ERR] An unhandled exception has occurred while executing the request.
+WebDoAn2.Exceptions.BadRequestException: Email đã được sử dụng.
+   at WebDoAn2.Services.AuthService.RegisterAsync(RegisterModel registerModel) in D:\WebDoAn2\Services\AuthService.cs:line 86
+   at WebDoAn2.Controllers.AuthController.Register(RegisterModel registerModel) in D:\WebDoAn2\Controllers\AuthController.cs:line 43
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-12-14 16:32:38.086 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 30.1895 ms
+2024-12-14 16:32:38.143 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 45.4577 ms
+2024-12-14 16:32:38.207 +07:00 [INF] HTTP GET /api/Hotels/GetHotels responded 200 in 149.9755 ms
+2024-12-14 16:32:38.287 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 126.4263 ms
+2024-12-14 16:32:38.298 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 128.6029 ms
+2024-12-14 16:32:38.328 +07:00 [INF] HTTP GET /api/Hotels/GetHotels responded 200 in 29.5232 ms
+2024-12-14 16:32:38.228 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 72.5509 ms
+2024-12-14 16:32:38.286 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 130.6008 ms
+2024-12-14 16:32:41.560 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 10.8477 ms
+2024-12-14 16:32:41.583 +07:00 [INF] HTTP GET /api/Hotels/GetHotels responded 200 in 25.8982 ms
+2024-12-14 16:32:41.628 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 39.3809 ms
+2024-12-14 16:32:41.688 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 97.6061 ms
+2024-12-14 16:32:41.583 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 9.2752 ms
+2024-12-14 16:32:41.629 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 38.3913 ms
+2024-12-14 16:32:41.611 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 21.0375 ms
+2024-12-14 16:32:41.798 +07:00 [INF] HTTP GET /api/Hotels/GetHotels responded 200 in 120.9037 ms
+2024-12-14 16:32:46.891 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 9.2716 ms
+2024-12-14 16:32:46.891 +07:00 [INF] HTTP GET /api/Hotels/GetHotels responded 200 in 9.5703 ms
+2024-12-14 16:32:46.908 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 12.5225 ms
+2024-12-14 16:32:46.915 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 7.0422 ms
+2024-12-14 16:32:46.908 +07:00 [INF] HTTP GET /api/Hotels/GetHotels responded 200 in 14.1334 ms
+2024-12-14 16:32:46.941 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 22.7441 ms
+2024-12-14 16:32:46.944 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 25.4399 ms
+2024-12-14 16:32:46.941 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 22.7333 ms
+2024-12-14 16:33:07.333 +07:00 [INF] HTTP POST /api/Auth/SendVerificationCode responded 200 in 3052.0118 ms
+2024-12-14 16:33:19.062 +07:00 [ERR] HTTP POST /api/Auth/Register responded 500 in 111.0356 ms
+WebDoAn2.Exceptions.BadRequestException: Email đã được sử dụng.
+   at WebDoAn2.Services.AuthService.RegisterAsync(RegisterModel registerModel) in D:\WebDoAn2\Services\AuthService.cs:line 86
+   at WebDoAn2.Controllers.AuthController.Register(RegisterModel registerModel) in D:\WebDoAn2\Controllers\AuthController.cs:line 43
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2024-12-14 16:33:19.077 +07:00 [ERR] An unhandled exception has occurred while executing the request.
+WebDoAn2.Exceptions.BadRequestException: Email đã được sử dụng.
+   at WebDoAn2.Services.AuthService.RegisterAsync(RegisterModel registerModel) in D:\WebDoAn2\Services\AuthService.cs:line 86
+   at WebDoAn2.Controllers.AuthController.Register(RegisterModel registerModel) in D:\WebDoAn2\Controllers\AuthController.cs:line 43
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-12-14 16:33:29.184 +07:00 [ERR] HTTP POST /api/Auth/Register responded 500 in 125.6865 ms
+WebDoAn2.Exceptions.BadRequestException: Email đã được sử dụng.
+   at WebDoAn2.Services.AuthService.RegisterAsync(RegisterModel registerModel) in D:\WebDoAn2\Services\AuthService.cs:line 86
+   at WebDoAn2.Controllers.AuthController.Register(RegisterModel registerModel) in D:\WebDoAn2\Controllers\AuthController.cs:line 43
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2024-12-14 16:33:29.202 +07:00 [ERR] An unhandled exception has occurred while executing the request.
+WebDoAn2.Exceptions.BadRequestException: Email đã được sử dụng.
+   at WebDoAn2.Services.AuthService.RegisterAsync(RegisterModel registerModel) in D:\WebDoAn2\Services\AuthService.cs:line 86
+   at WebDoAn2.Controllers.AuthController.Register(RegisterModel registerModel) in D:\WebDoAn2\Controllers\AuthController.cs:line 43
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-12-14 16:33:57.016 +07:00 [INF] HTTP GET /api/Auth/Register responded 405 in 0.6025 ms
+2024-12-14 16:40:43.655 +07:00 [INF] HTTP POST /api/Auth/SendVerificationCode responded 200 in 3213.5937 ms
+2024-12-14 16:41:18.652 +07:00 [ERR] HTTP POST /api/Auth/Register responded 500 in 179.6677 ms
+WebDoAn2.Exceptions.BadRequestException: Email đã được sử dụng.
+   at WebDoAn2.Services.AuthService.RegisterAsync(RegisterModel registerModel) in D:\WebDoAn2\Services\AuthService.cs:line 86
+   at WebDoAn2.Controllers.AuthController.Register(RegisterModel registerModel) in D:\WebDoAn2\Controllers\AuthController.cs:line 43
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2024-12-14 16:41:18.671 +07:00 [ERR] An unhandled exception has occurred while executing the request.
+WebDoAn2.Exceptions.BadRequestException: Email đã được sử dụng.
+   at WebDoAn2.Services.AuthService.RegisterAsync(RegisterModel registerModel) in D:\WebDoAn2\Services\AuthService.cs:line 86
+   at WebDoAn2.Controllers.AuthController.Register(RegisterModel registerModel) in D:\WebDoAn2\Controllers\AuthController.cs:line 43
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-12-14 16:46:30.949 +07:00 [INF] HTTP GET /api/Auth/Register responded 405 in 0.1430 ms
+2024-12-14 16:46:43.894 +07:00 [INF] HTTP POST /api/Auth/SendVerificationCode responded 200 in 2935.5625 ms
+2024-12-14 16:47:07.821 +07:00 [ERR] HTTP POST /api/Auth/Register responded 500 in 261.6928 ms
+WebDoAn2.Exceptions.BadRequestException: Email đã được sử dụng.
+   at WebDoAn2.Services.AuthService.RegisterAsync(RegisterModel registerModel) in D:\WebDoAn2\Services\AuthService.cs:line 86
+   at WebDoAn2.Controllers.AuthController.Register(RegisterModel registerModel) in D:\WebDoAn2\Controllers\AuthController.cs:line 43
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2024-12-14 16:47:07.844 +07:00 [ERR] An unhandled exception has occurred while executing the request.
+WebDoAn2.Exceptions.BadRequestException: Email đã được sử dụng.
+   at WebDoAn2.Services.AuthService.RegisterAsync(RegisterModel registerModel) in D:\WebDoAn2\Services\AuthService.cs:line 86
+   at WebDoAn2.Controllers.AuthController.Register(RegisterModel registerModel) in D:\WebDoAn2\Controllers\AuthController.cs:line 43
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-12-14 16:54:35.885 +07:00 [INF] HTTP GET /api/Hotels/GetHotels responded 200 in 5189.0028 ms
+2024-12-14 16:54:35.885 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 5189.0054 ms
+2024-12-14 16:54:36.018 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 131.6439 ms
+2024-12-14 16:54:36.018 +07:00 [INF] HTTP GET /api/Hotels/GetHotels responded 200 in 131.6437 ms
+2024-12-14 16:54:36.036 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 14.4644 ms
+2024-12-14 16:54:36.047 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 8.3721 ms
+2024-12-14 16:54:36.058 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 8.4009 ms
+2024-12-14 16:54:36.070 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 9.2481 ms
+2024-12-14 16:55:05.893 +07:00 [INF] HTTP POST /api/Auth/SendVerificationCode responded 200 in 3108.7874 ms
+2024-12-14 16:55:25.982 +07:00 [ERR] HTTP POST /api/Auth/Register responded 500 in 258.7406 ms
+WebDoAn2.Exceptions.BadRequestException: Email đã được sử dụng.
+   at WebDoAn2.Services.AuthService.RegisterAsync(RegisterModel registerModel) in D:\WebDoAn2\Services\AuthService.cs:line 139
+   at WebDoAn2.Controllers.AuthController.Register(RegisterModel registerModel) in D:\WebDoAn2\Controllers\AuthController.cs:line 44
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2024-12-14 16:55:26.040 +07:00 [ERR] An unhandled exception has occurred while executing the request.
+WebDoAn2.Exceptions.BadRequestException: Email đã được sử dụng.
+   at WebDoAn2.Services.AuthService.RegisterAsync(RegisterModel registerModel) in D:\WebDoAn2\Services\AuthService.cs:line 139
+   at WebDoAn2.Controllers.AuthController.Register(RegisterModel registerModel) in D:\WebDoAn2\Controllers\AuthController.cs:line 44
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-12-14 17:07:22.858 +07:00 [INF] HTTP POST /api/Auth/SendVerificationCode responded 200 in 3179.0972 ms
+2024-12-14 17:07:36.967 +07:00 [ERR] HTTP POST /api/Auth/Register responded 500 in 160.8957 ms
+WebDoAn2.Exceptions.BadRequestException: Email đã được sử dụng.
+   at WebDoAn2.Services.AuthService.RegisterAsync(RegisterModel registerModel) in D:\WebDoAn2\Services\AuthService.cs:line 139
+   at WebDoAn2.Controllers.AuthController.Register(RegisterModel registerModel) in D:\WebDoAn2\Controllers\AuthController.cs:line 44
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2024-12-14 17:07:36.983 +07:00 [ERR] An unhandled exception has occurred while executing the request.
+WebDoAn2.Exceptions.BadRequestException: Email đã được sử dụng.
+   at WebDoAn2.Services.AuthService.RegisterAsync(RegisterModel registerModel) in D:\WebDoAn2\Services\AuthService.cs:line 139
+   at WebDoAn2.Controllers.AuthController.Register(RegisterModel registerModel) in D:\WebDoAn2\Controllers\AuthController.cs:line 44
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-12-14 20:15:15.890 +07:00 [INF] HTTP GET /api/Hotels/GetHotels responded 200 in 12622.0142 ms
+2024-12-14 20:15:15.890 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 12622.2155 ms
+2024-12-14 20:15:16.154 +07:00 [INF] HTTP GET /api/Hotels/GetHotels responded 200 in 202.8970 ms
+2024-12-14 20:15:16.156 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 210.7728 ms
+2024-12-14 20:15:16.189 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 21.7236 ms
+2024-12-14 20:15:16.207 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 13.7499 ms
+2024-12-14 20:15:16.233 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 14.9457 ms
+2024-12-14 20:15:16.282 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 20.2292 ms
+2024-12-14 20:18:19.393 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 107.5530 ms
+2024-12-14 20:18:19.400 +07:00 [INF] HTTP GET /api/Hotels/GetHotels responded 200 in 114.3157 ms
+2024-12-14 20:18:19.455 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 51.9668 ms
+2024-12-14 20:18:19.470 +07:00 [INF] HTTP GET /api/Hotels/GetHotels responded 200 in 46.8825 ms
+2024-12-14 20:18:19.488 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 22.6605 ms
+2024-12-14 20:18:19.520 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 20.6746 ms
+2024-12-14 20:18:19.558 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 20.4445 ms
+2024-12-14 20:18:19.615 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 47.3216 ms
+2024-12-14 21:12:57.251 +07:00 [INF] HTTP POST /api/Auth/SendVerificationCode responded 200 in 10600.7769 ms
+2024-12-14 21:15:22.572 +07:00 [ERR] HTTP POST /api/Auth/Register responded 500 in 989.3838 ms
+WebDoAn2.Exceptions.BadRequestException: Email đã được sử dụng.
+   at WebDoAn2.Services.AuthService.RegisterAsync(RegisterModel registerModel) in D:\WebDoAn2\Services\AuthService.cs:line 139
+   at WebDoAn2.Controllers.AuthController.Register(RegisterModel registerModel) in D:\WebDoAn2\Controllers\AuthController.cs:line 44
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2024-12-14 21:15:22.734 +07:00 [ERR] An unhandled exception has occurred while executing the request.
+WebDoAn2.Exceptions.BadRequestException: Email đã được sử dụng.
+   at WebDoAn2.Services.AuthService.RegisterAsync(RegisterModel registerModel) in D:\WebDoAn2\Services\AuthService.cs:line 139
+   at WebDoAn2.Controllers.AuthController.Register(RegisterModel registerModel) in D:\WebDoAn2\Controllers\AuthController.cs:line 44
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-12-14 21:17:14.615 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 96.2930 ms
+2024-12-14 21:17:14.652 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 20.2335 ms
+2024-12-14 21:17:14.659 +07:00 [INF] HTTP GET /api/Hotels/GetHotels responded 200 in 140.1650 ms
+2024-12-14 21:17:14.739 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 70.5970 ms
+2024-12-14 21:17:14.739 +07:00 [INF] HTTP GET /api/Hotels/GetHotels responded 200 in 57.2570 ms
+2024-12-14 21:17:14.806 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 54.5014 ms
+2024-12-14 21:17:14.869 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 11.6331 ms
+2024-12-14 21:17:14.896 +07:00 [INF] HTTP GET /api/Locations/GetLocations responded 200 in 20.6669 ms
+2024-12-14 21:19:19.087 +07:00 [INF] HTTP POST /api/Auth/SendVerificationCode responded 200 in 7320.4053 ms
+2024-12-14 21:19:30.979 +07:00 [INF] HTTP POST /api/Auth/Register responded 200 in 338.4460 ms
+2024-12-14 22:05:18.078 +07:00 [INF] HTTP POST /api/Auth/SendVerificationCode responded 200 in 3608.0889 ms
+2024-12-14 22:06:08.986 +07:00 [INF] HTTP POST /api/Auth/SendVerificationCode responded 200 in 3387.0013 ms
+2024-12-14 22:07:47.916 +07:00 [INF] HTTP POST /api/Auth/SendVerificationCode responded 200 in 3243.6122 ms
+2024-12-14 22:17:18.717 +07:00 [INF] HTTP POST /api/Auth/SendVerificationCode responded 200 in 3493.1338 ms
+2024-12-14 22:31:37.187 +07:00 [INF] HTTP POST /api/Auth/SendVerificationCode responded 200 in 3083.6138 ms
+2024-12-14 22:34:14.042 +07:00 [INF] HTTP POST /api/Auth/SendVerificationCode responded 200 in 2975.2847 ms
+2024-12-14 22:34:52.663 +07:00 [INF] HTTP POST /api/Auth/SendVerificationCode responded 200 in 3014.5316 ms
+2024-12-14 22:39:14.277 +07:00 [INF] HTTP POST /api/Auth/SendVerificationCode responded 200 in 3263.0306 ms
+2024-12-14 22:42:01.907 +07:00 [INF] HTTP POST /api/Auth/SendVerificationCode responded 200 in 3082.5687 ms
+2024-12-14 22:43:46.693 +07:00 [INF] HTTP POST /api/Auth/SendVerificationCode responded 200 in 2783.2097 ms
+2024-12-14 22:44:38.906 +07:00 [INF] HTTP POST /api/Auth/SendVerificationCode responded 200 in 2968.0203 ms
+2024-12-14 22:48:18.121 +07:00 [INF] HTTP POST /api/Auth/SendVerificationCode responded 200 in 2881.6856 ms
+2024-12-14 22:53:47.839 +07:00 [INF] HTTP POST /api/Auth/SendVerificationCode responded 200 in 3633.3351 ms
+2024-12-14 22:54:38.368 +07:00 [INF] HTTP POST /api/Auth/SendVerificationCode responded 200 in 3230.7798 ms
+2024-12-14 22:54:49.214 +07:00 [INF] HTTP POST /api/Auth/SendVerificationCode responded 200 in 3046.9848 ms
+2024-12-14 22:59:08.522 +07:00 [INF] HTTP POST /api/Auth/SendVerificationCode responded 200 in 2991.0867 ms
+2024-12-14 23:01:58.457 +07:00 [INF] HTTP POST /api/Auth/SendVerificationCode responded 200 in 3447.7081 ms
+2024-12-14 23:07:12.784 +07:00 [INF] HTTP POST /api/Auth/SendVerificationCode responded 200 in 3315.6946 ms
+2024-12-14 23:08:17.481 +07:00 [INF] HTTP POST /api/Auth/Register responded 200 in 159.1953 ms
+2024-12-14 23:09:23.095 +07:00 [INF] HTTP POST /api/Auth/SendVerificationCode responded 200 in 2920.6019 ms
+2024-12-14 23:13:46.430 +07:00 [INF] HTTP POST /api/Auth/SendVerificationCode responded 200 in 3112.0878 ms
+2024-12-14 23:16:18.808 +07:00 [INF] HTTP POST /api/Auth/SendVerificationCode responded 200 in 3175.5982 ms
+2024-12-14 23:17:02.728 +07:00 [INF] HTTP POST /api/Auth/SendVerificationCode responded 200 in 2927.4151 ms
