@@ -97,3 +97,43 @@ Là người quản lý toàn bộ hệ thống, thực hiện các chức năng
 
 ![image](https://github.com/user-attachments/assets/8e8110cb-0667-4347-97c2-303232f061b6)  
 
+<b>5. Sơ đồ Diagram</b>  
+
+Trong sơ đồ này, sẽ hiển thị đầy đủ toàn bộ các bảng trong cơ sở dữ liệu bao gồm các ràng buộc khoá chính, khoá ngoại như hình bên dưới  
+
+![image](https://github.com/user-attachments/assets/89b29e10-465d-4739-a4b1-db234c17e7bc)  
+
+<b>6. Môi trường và công cụ phát triển</b>  
+
+Phần này đề cập đến các công cụ, phần mềm và cấu hình được sử dụng để xây dựng, kiểm tra và triển khai website. Dưới đây là các thành phần chính:
+
+### 🌐 Môi trường phát triển
+- **Visual Studio**: Sử dụng cho backend với các chức năng **C# ASP.NET Core Web API**.
+- **Visual Studio Code**: Sử dụng cho frontend giao diện ReactJS, với nhiều tiện ích mở rộng hỗ trợ lập trình React.
+
+### 📦 Thư viện và Framework
+- **ReactJS**: Thư viện JavaScript để xây dựng giao diện người dùng.
+- **Ant Design**: Thư viện UI cho React, cung cấp các component giao diện đẹp và dễ sử dụng.
+- **Axios**: Thư viện giúp thực hiện các yêu cầu HTTP, thường được sử dụng để gọi API.
+
+### 📋 Quản lý dự án
+- **npm (Node Package Manager)**: Công cụ quản lý các gói và thư viện trong dự án frontend.
+
+### 🔄 Quản lý trạng thái
+- **Redux**: Thư viện quản lý trạng thái toàn cục cho ứng dụng React, giúp chia sẻ dữ liệu giữa các component một cách hiệu quả.
+
+### 🛠️ Công cụ phát triển khác
+- **Postman** (hoặc **Swagger API**): Công cụ để thử nghiệm và kiểm tra các API.
+- **Git**: Hệ thống quản lý phiên bản để theo dõi thay đổi mã nguồn và làm việc nhóm hiệu quả.
+
+<b>7. Một số giao diện chính của Website</b>  
+
+| Loại tài khoản | Username | Password     |
+|:---------------|:------------|:---------------|
+| User           | EchCon       | EchCon2003      |
+| Admin          | ThiHoa       | ThiHoa0309@     |  
+
+![image](https://github.com/user-attachments/assets/986e0127-6423-4cf1-a441-22fb6f5b5e2e)  
+
+
+
