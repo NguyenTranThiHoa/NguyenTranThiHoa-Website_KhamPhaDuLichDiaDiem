@@ -15,3 +15,47 @@ Website này không chỉ cung cấp thông tin chi tiết về các điểm du 
 **Đề tài này hướng đến việc giải quyết những khó khăn mà du khách thường gặp phải, góp phần nâng cao trải nghiệm du lịch và thúc đẩy sự phát triển của ngành du lịch địa phương cũng như quốc tế.**  
 **Website không chỉ mang đến sự tiện lợi mà còn trở thành cầu nối giúp mỗi chuyến đi trở nên ý nghĩa và đáng nhớ hơn.**
 
+<b>2. Đặc tả hệ thống</b>  
+
+Website được thiết kế nhằm hỗ trợ người dùng khám phá và tìm hiểu thông tin về các địa điểm du lịch mới một cách dễ dàng và thuận tiện.  
+Hệ thống cung cấp chức năng **tìm kiếm linh hoạt theo từ khóa, danh mục**, đồng thời hiển thị **thông tin chi tiết về các địa điểm** như mô tả, hình ảnh, đánh giá, và các tiện ích đi kèm như bản đồ.  
+
+Người dùng có thể **lập kế hoạch hành trình cá nhân** cho riêng mình, tùy theo mô tả chi tiết của địa điểm muốn đến và **quản lý danh sách địa điểm, món ăn, khách sạn, phương tiện di chuyển tại nơi yêu thích**.  
+Hệ thống còn cho phép người dùng **đánh giá, viết nhận xét**, để đóng góp thông tin cho cộng đồng, qua đó **nâng cao trải nghiệm du lịch của mọi người**.  
+
+Đối với **quản trị viên**, hệ thống cung cấp chức năng **quản lý nội dung** như thêm mới, chỉnh sửa hoặc xóa thông tin về địa điểm du lịch.  
+Ngoài ra, quản trị viên có thể **theo dõi và kiểm soát hoạt động của người dùng**, đảm bảo nội dung trên website luôn chính xác và phù hợp.  
+
+Hệ thống được xây dựng trên nền tảng web với **giao diện hiện đại, tối ưu hóa cho thiết bị di động và máy tính**.  
+
+**Công nghệ sử dụng:**
+- **Backend:** ASP.NET Core C# Web API  
+- **Frontend:** ReactJS  
+- **Giao diện:** Ant Design  
+- **Cơ sở dữ liệu:** SQL Server  
+
+Hệ thống không chỉ hỗ trợ người dùng **khám phá địa điểm mới** mà còn góp phần **quảng bá du lịch địa phương, kết nối cộng đồng du lịch và thúc đẩy sự phát triển của ngành du lịch Việt Nam**.  
+
+<b>3. Sơ đồ hệ thống</b>  
+
+Hệ thống bao gồm các chức năng chính dành cho **User (người dùng)** và **Admin (quản trị viên)** như sau:
+
+### 📌 Dành cho **User (Người dùng)**:
+- **Xem thông tin chi tiết** về địa điểm du lịch, món ăn, khách sạn, phương tiện di chuyển tại địa phương.
+- **Đăng ký** và **đăng nhập tài khoản**.
+- **Đánh giá, bình luận** các địa điểm du lịch.
+- **Tìm kiếm theo từ khóa** cho các địa điểm.
+- **Lọc tìm kiếm theo tỉnh/thành phố**.
+
+### 📌 Dành cho **Admin (Quản trị viên)**:
+- **Quản lý địa điểm, món ăn, khách sạn, phương tiện di chuyển**:
+  - Thêm mới
+  - Chỉnh sửa
+  - Xóa
+  - Tìm kiếm và lọc theo phương thức chọn hoặc nhập từ khóa.
+- **Quản lý người dùng**:
+  - Phân quyền vai trò (Admin/Người dùng)
+  - Cập nhật mật khẩu
+- **Xem, chỉnh sửa bình luận và đánh giá** từ người dùng.
+
+![image](https://github.com/user-attachments/assets/5c14fc44-b4a4-4349-b67f-c3549a029d42)
