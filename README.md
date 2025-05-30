@@ -107,26 +107,27 @@ Trong sơ đồ này, sẽ hiển thị đầy đủ toàn bộ các bảng tron
 
 Phần này đề cập đến các công cụ, phần mềm và cấu hình được sử dụng để xây dựng, kiểm tra và triển khai website. Dưới đây là các thành phần chính:
 
-### 🌐 Môi trường phát triển
+### Môi trường phát triển
 - **Visual Studio**: Sử dụng cho backend với các chức năng **C# ASP.NET Core Web API**.
 - **Visual Studio Code**: Sử dụng cho frontend giao diện ReactJS, với nhiều tiện ích mở rộng hỗ trợ lập trình React.
 
-### 📦 Thư viện và Framework
+### Thư viện và Framework
 - **ReactJS**: Thư viện JavaScript để xây dựng giao diện người dùng.
 - **Ant Design**: Thư viện UI cho React, cung cấp các component giao diện đẹp và dễ sử dụng.
 - **Axios**: Thư viện giúp thực hiện các yêu cầu HTTP, thường được sử dụng để gọi API.
 
-### 📋 Quản lý dự án
+### Quản lý dự án
 - **npm (Node Package Manager)**: Công cụ quản lý các gói và thư viện trong dự án frontend.
 
-### 🔄 Quản lý trạng thái
+### Quản lý trạng thái
 - **Redux**: Thư viện quản lý trạng thái toàn cục cho ứng dụng React, giúp chia sẻ dữ liệu giữa các component một cách hiệu quả.
 
-### 🛠️ Công cụ phát triển khác
+### 🛠Công cụ phát triển khác
 - **Postman** (hoặc **Swagger API**): Công cụ để thử nghiệm và kiểm tra các API.
 - **Git**: Hệ thống quản lý phiên bản để theo dõi thay đổi mã nguồn và làm việc nhóm hiệu quả.
 
 <b>7. Một số giao diện chính của Website</b>  
+## Giao diện Đăng nhập
 
 | Loại tài khoản | Username | Password     |
 |:---------------|:------------|:---------------|
@@ -134,6 +135,55 @@ Phần này đề cập đến các công cụ, phần mềm và cấu hình đ�
 | Admin          | ThiHoa       | ThiHoa0309@     |  
 
 ![image](https://github.com/user-attachments/assets/986e0127-6423-4cf1-a441-22fb6f5b5e2e)  
+
+## Giao diện Đăng ký
+
+Khi chưa có tài khoản, người dùng có thể đăng ký tài khoản mới trực tiếp trên website để dễ dàng sử dụng các chức năng và tương tác với quyền người dùng.
+
+### Chức năng
+
+- Nhập đầy đủ thông tin vào **form đăng ký**:
+  - Họ tên
+  - Email
+  - Mật khẩu
+  - Xác nhận mật khẩu
+
+- Hệ thống sẽ gửi **mã OTP qua email** đã đăng ký.
+
+- Người dùng nhập **mã OTP** để xác thực.
+
+- Nếu mã OTP hợp lệ, tài khoản sẽ được tạo thành công và người dùng có thể đăng nhập.
+
+---
+
+### Quy trình Đăng ký Tài khoản:
+
+1. Người dùng truy cập vào trang **Đăng ký**.
+2. Nhập đầy đủ thông tin yêu cầu vào form.
+3. Nhấn nút **Đăng ký**.
+4. Hệ thống gửi **email xác nhận OTP**.
+5. Người dùng kiểm tra email và nhập **mã OTP** vào hệ thống.
+6. Hoàn tất đăng ký và đăng nhập vào website.
+
+![image](https://github.com/user-attachments/assets/175cbdad-e351-4eb4-8b41-c0116a8b813b)  
+
+## Giao diện Quên mật khẩu  
+
+Tại đây nếu người dùng quên tài khoản mật khẩu, sẽ được nhập gmail đã đăng ký tài khoản trước đó, và được gửi mã OTP về, nhập mới các thông tin về mật khẩu mới, sau đó sẽ nhập vào mã OTP để xác thực và cập nhật lại mật khẩu mới.  
+
+![image](https://github.com/user-attachments/assets/7515ae54-dbee-4c3d-9a9d-2ccf13247daa)  
+![image](https://github.com/user-attachments/assets/bd53c883-0cec-4799-843b-6d4002ed8c46)  
+![image](https://github.com/user-attachments/assets/1b6e800e-e496-416a-a240-2dce7d0df90a)  
+
+## Giao diện Trang chủ  
+
+![image](https://github.com/user-attachments/assets/fbc58a95-68e0-4822-98c5-dcd8e9b81199)  
+
+
+
+
+
+
 
 
 
