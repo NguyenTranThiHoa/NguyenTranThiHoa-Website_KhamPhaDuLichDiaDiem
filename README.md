@@ -80,8 +80,6 @@ Là người sử dụng website với các chức năng:
 - **Bình luận và đánh giá** các địa điểm, món ăn, khách sạn.
 - Thực hiện các chức năng trên thông qua **đăng nhập hoặc đăng ký tài khoản người dùng**.
 
----
-
 ### **Admin (Quản trị viên)**  
 Là người quản lý toàn bộ hệ thống, thực hiện các chức năng:
 - **Quản lý nội dung**:
