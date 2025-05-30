@@ -1,5 +1,5 @@
 <p align="center"><b>XÂY DỰNG WEBSITE HỖ TRỢ DU LỊCH VÀ KHÁM PHÁ ĐỊA ĐIỂM MỚI</b></p>  
-**1. Đặt vấn đề
+<b>1. Đặt vấn đề</b>
 
 Trong những năm gần đây, du lịch đã trở thành một phần quan trọng trong đời sống của con người, không chỉ giúp giải trí mà còn mở ra cơ hội khám phá văn hóa, lịch sử và thiên nhiên ở những vùng đất mới.  
 Tuy nhiên, để có một chuyến du lịch trọn vẹn, du khách thường gặp nhiều khó khăn trong việc tìm kiếm thông tin đáng tin cậy về các điểm đến, lên kế hoạch hành trình, và lựa chọn các dịch vụ phù hợp.  
