@@ -154,8 +154,6 @@ Khi chưa có tài khoản, người dùng có thể đăng ký tài khoản m�
 
 - Nếu mã OTP hợp lệ, tài khoản sẽ được tạo thành công và người dùng có thể đăng nhập.
 
----
-
 ### Quy trình Đăng ký Tài khoản:
 
 1. Người dùng truy cập vào trang **Đăng ký**.
