@@ -58,4 +58,44 @@ Hệ thống bao gồm các chức năng chính dành cho **User (người dùng
   - Cập nhật mật khẩu
 - **Xem, chỉnh sửa bình luận và đánh giá** từ người dùng.
 
-![image](https://github.com/user-attachments/assets/5c14fc44-b4a4-4349-b67f-c3549a029d42)
+![image](https://github.com/user-attachments/assets/5c14fc44-b4a4-4349-b67f-c3549a029d42)  
+
+<b>4. Sơ đồ tổng quát UseCase</b>  
+
+### **User (Người dùng)**  
+Là người sử dụng website với các chức năng:
+- **Xem và tương tác** với các trang:
+  - Trang chủ
+  - Món ăn
+  - Địa điểm
+  - Khách sạn
+  - Về chúng tôi
+- **Tìm kiếm địa điểm** du lịch theo từ khóa hoặc danh mục.
+- **Xem chi tiết** về:
+  - Địa điểm
+  - Món ăn
+  - Khách sạn
+  - Phương tiện di chuyển tại địa phương
+- **Quản lý và cập nhật thông tin cá nhân.**
+- **Bình luận và đánh giá** các địa điểm, món ăn, khách sạn.
+- Thực hiện các chức năng trên thông qua **đăng nhập hoặc đăng ký tài khoản người dùng**.
+
+---
+
+### **Admin (Quản trị viên)**  
+Là người quản lý toàn bộ hệ thống, thực hiện các chức năng:
+- **Quản lý nội dung**:
+  - Địa điểm
+  - Món ăn
+  - Khách sạn
+  - Phương tiện di chuyển
+  - Bình luận và đánh giá
+- **Quản lý người dùng**, bao gồm:
+  - Phân quyền vai trò (Admin / Người dùng)
+  - Cập nhật mật khẩu
+- **Thống kê số lượng** các mục quản lý (địa điểm, món ăn, khách sạn…)
+- **Tìm kiếm và lọc dữ liệu** theo từ khóa hoặc danh mục
+- Đảm bảo nội dung trên hệ thống luôn **chính xác và phù hợp**.
+
+![image](https://github.com/user-attachments/assets/8e8110cb-0667-4347-97c2-303232f061b6)  
+
