@@ -179,6 +179,105 @@ Tại đây nếu người dùng quên tài khoản mật khẩu, sẽ được 
 
 ![image](https://github.com/user-attachments/assets/fbc58a95-68e0-4822-98c5-dcd8e9b81199)  
 
+## Giao diện Trang địa điểm  
+
+![image](https://github.com/user-attachments/assets/1815e684-bec1-4980-80d0-40321c7524c4)  
+
+## Giao diện Trang chi tiết địa điểm  
+
+![image](https://github.com/user-attachments/assets/cf77b8e1-b7c4-484c-86c7-a136d6c18b42)  
+
+## Giao diện Trang khách sạn  
+
+![image](https://github.com/user-attachments/assets/fd92b394-f098-4c35-9a57-f61d618040d2)  
+
+## Giao diện Trang món ăn  
+
+![image](https://github.com/user-attachments/assets/56bd894b-d0f6-410d-a98e-49499b4aa5dd)  
+
+## Giao diện Trang trang phương tiện di chuyển tại địa phương  
+
+![image](https://github.com/user-attachments/assets/a82f4b32-0611-4310-9f33-c5c934768e42)  
+
+## Giao diện Trang về chúng tôi  
+
+![image](https://github.com/user-attachments/assets/30bd5aa5-3802-4439-8b0d-bf52eb60de76)  
+
+## Giao diện Trang thông tin người dùng và cập nhật lại mật khẩu  
+
+![image](https://github.com/user-attachments/assets/c88e6d1a-c140-43f0-91b0-bbf6655e5288)  
+
+## Giao diện Trang Dashboard của Admin  
+
+![image](https://github.com/user-attachments/assets/27f19afc-4d5f-4f26-b6b5-14fb9bc5040b)  
+
+## Giao diện Trang quản lý địa điểm  
+
+![image](https://github.com/user-attachments/assets/fc7d41a3-e18d-4812-a37c-cb1af62971a0)  
+
+## Giao diện Trang quản lý khách sạn  
+
+![image](https://github.com/user-attachments/assets/834f3839-c965-47cf-8c7e-443d74fd1c02)  
+
+## Giao diện Trang quản lý loại phương tiện  
+
+![image](https://github.com/user-attachments/assets/a4250f4a-6ea9-4bc8-a98a-b813634d3a27)  
+
+## Giao diện Trang quản lý các phương tiện di chuyển tại địa phương  
+
+![image](https://github.com/user-attachments/assets/2b3e6744-3cbc-4aee-9fe2-7325594c5dce)  
+
+## Giao diện Trang quản lý món ăn  
+
+![image](https://github.com/user-attachments/assets/d44d7bf5-7724-4128-b9f9-b8f968e61779)  
+
+## Giao diện Trang quản lý đánh giá  
+
+![image](https://github.com/user-attachments/assets/3282b70d-9c20-4127-ac87-a7a8b229053e)  
+
+## Giao diện Trang quản lý người dùng  
+
+![image](https://github.com/user-attachments/assets/94a85067-a4f3-40f0-84ec-86aa97732ec2)  
+
+## Giao diện Trang cập nhật lại mật khẩu  
+
+![image](https://github.com/user-attachments/assets/a1e7b1ce-cff1-4a75-a5d9-31094d9ed718)  
+
+<b>8. Kết quả đạt được</b>  
+
+Website hỗ trợ du lịch và khám phá địa điểm mới trực tuyến được xây dựng hoàn chỉnh với giao diện hiện đại, thân thiện và dễ sử dụng. Các tính năng như tìm kiếm địa điểm, món ăn, khách sạn, phương tiện phù hợp tại địa phương, tìm kiếm, xem bản đồ. Bên cạnh đó còn còn có thêm đánh giá về địa điểm mà người dùng muốn được trải nghiệm hoặc đã đi đến, xem sửa lại thông tin cá nhân, cập nhật lại mật khẩu mới, giúp đem lại tiện lợi cho người dùng.  
+
+Hệ thống quản trị dành cho Admin cũng được tối ưu, cho phép dễ dàng quản lý danh mục phương tiện, địa điểm, món ăn, khách sạn. Quản lý các đánh giá bình luận được chính xác và mang tính quy tắc không vi phạm ngôn ngữ cộng đồng, đồng thời được phép sửa hoặc bình luận gây ra nhiều vấn đề cần giải quyết. Việc áp dụng ReactJS, Ant Design, và ASP.NET Web API đã đảm bảo tính chuyên nghiệp, hiệu suất cao và bảo mật vững chắc cho hệ thống.  
+
+<b>9. Hạn chế</b>  
+
+Giao diện chưa được mở rộng về tính năng xem bản đồ trực tiếp tại địa phương, xem thông tin chi tiết còn hạn chế về hình ảnh, Lưu lịch và xem danh sách lịch sử bình luận của người dùng khi đăng nhập còn chưa được khai thác hết.  
+
+Màu sắc của các giao diện khi phối màu chưa được đẹp mắt, thông tin liên hệ chưa được cập nhật. Quản trị Admin chưa được tối ưu hóa về quản lý nghiệp vụ hiệu quả và chính xác.  
+
+<b>10. Hướng phát triển</b>  
+
+Bổ sung thêm nhiều tính năng mới cho người trải nghiệm về bản đồ tại địa phương, đa dạng các hình ảnh cho chi tiết địa đểm, màu sắc sẽ được cân chỉnh cho phù hợp với giao diện, xử lý nghiệp vụ quản lý người dùng được chính xác nhất, cập nhật thông tin mới về nhiều địa điểm được khám phá.   
+
+Tính năng lưu lại và xem lịch sử bình luận được mở rộng, cập nhật trạng thái mới cho người dùng về nhiều tiện ích khác nhau.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
